@@ -1,11 +1,11 @@
 Summary:	An Open Source software construction tool
 Name:		scons
-Version:	2.3.0
+Version:	2.3.4
 Release:	1
 License:	MIT, freely distributable
 Group:		Development/Tools
 Source0:	http://downloads.sourceforge.net/scons/%{name}-%{version}.tar.gz
-# Source0-md5:	083ce5624d6adcbdaf2526623f456ca9
+# Source0-md5:	91fbbb67c2c65b03c746601baac4a6a5
 URL:		http://www.scons.org/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
